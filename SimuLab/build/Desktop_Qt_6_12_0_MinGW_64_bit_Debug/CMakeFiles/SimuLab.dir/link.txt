@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\SimuLab.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\SimuLab.dir/objects.a @CMakeFiles\SimuLab.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\SimuLab.dir/objects.a -Wl,--no-whole-archive -o SimuLab.exe -Wl,--out-implib,libSimuLab.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SimuLab.dir\linkLibs.rsp
